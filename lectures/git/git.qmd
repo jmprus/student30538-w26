@@ -379,7 +379,7 @@ Changes to be committed:
  1 file changed, 1 insertion(+)
 :::
 
-## Do-Pair-Share Commands Collected Togethe {background-color="aliceblue"}
+## Do-Pair-Share Commands Collected Together {background-color="aliceblue"}
 
 ```{bash}
 % git init test
